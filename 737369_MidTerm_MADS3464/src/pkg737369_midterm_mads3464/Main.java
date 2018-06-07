@@ -23,6 +23,7 @@ public class Main {
      System.out.println(LambtonStringTools.reverseString("Lambton" )) ;
      
      System.out.println("Decimal of 1010 is: "+getDecimal(1010)); 
+       System.out.println(LambtonStringTools.mostFrequent("pardeeep"));
    }
        
      
