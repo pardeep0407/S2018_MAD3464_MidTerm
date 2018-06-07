@@ -11,11 +11,15 @@ package pkg737369_midterm_mads3464;
  */
 public class Main {
 
+    
+
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
-}
+    public static void main(String[] args) 
+   {
+     System.out.println(LambtonStringTools.reverseString("Lambton" )) ;
+   }
+       
+     
+  }
