@@ -5,6 +5,8 @@
  */
 package pkg737369_midterm_mads3464;
 
+import static pkg737369_midterm_mads3464.LambtonStringTools.getDecimal;
+
 /**
  *
  * @author macstudent
@@ -19,6 +21,8 @@ public class Main {
     public static void main(String[] args) 
    {
      System.out.println(LambtonStringTools.reverseString("Lambton" )) ;
+     
+     System.out.println("Decimal of 1010 is: "+getDecimal(1010)); 
    }
        
      
